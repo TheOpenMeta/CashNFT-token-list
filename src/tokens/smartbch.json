@@ -1,27 +1,11 @@
 [
   {
-    "name": "Decentralized Autonomous Organization",
-    "address": "0xca0235058985fcC1839E9e37c10900a73C126708",
-    "symbol": "DAO",
-    "decimals": 7,
-    "chainId": 10000,
-    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
-  },
-  {
     "name": "flexUSD",
     "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
     "symbol": "flexUSD",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/logo.png"
-  },
-  {
-    "name": "Green Ben",
-    "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
-    "symbol": "EBEN",
-    "decimals": 18,
-    "chainId": 10000,
-    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
   },
   {
     "name": "MIST",
@@ -46,5 +30,21 @@
     "decimals": 2,
     "chainId": 10000,
     "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png"
+  },
+  {
+    "name": "Green Ben",
+    "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
+    "symbol": "EBEN",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
+  },
+  {
+    "name": "Decentralized Autonomous Organization",
+    "address": "0xca0235058985fcC1839E9e37c10900a73C126708",
+    "symbol": "DAO",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://assets.mistswap.fi/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
   }
 ]
