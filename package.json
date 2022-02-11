@@ -1,0 +1,25 @@
+{
+  "name": "cashnft-token-list",
+  "version": "1.0.0",
+  "description": "The WanWu cash nft default token list",
+  "main": "build/wanwu-default.tokenlist.json",
+  "scripts": {
+    "build": "node src/write.js > wanwu-default-tokenlist.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WanWu-io/CashNFT-token-list.git"
+  },
+  "keywords": [
+    "WanWu",
+    "CashNFT",
+    "tokenList"
+  ],
+  "author": "WanWu.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WanWu-io/CashNFT-token-list/issues"
+  },
+  "homepage": "https://github.com/WanWu-io/CashNFT-token-list#readme",
+  "devDependencies": {}
+}
