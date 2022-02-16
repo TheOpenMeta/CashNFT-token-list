@@ -1,5 +1,6 @@
 const { version } = require('../package.json')
 const smartbch = require('./tokens/smartbch.json')
+const polygon = require('./tokens/polygon.json')
 
 module.exports = function buildList () {
   const parsed = version.split('.')
@@ -14,6 +15,6 @@ module.exports = function buildList () {
     tags: {},
     logoURI: '',
     keywords: ["wanwu-cashnft", "default"],
-    tokens: [...smartbch]
+    tokens: [...smartbch, ...polygon]
   }
 }
